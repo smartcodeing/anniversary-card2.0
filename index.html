@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Happy 1.6 Years 💕</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- หน้า 1: Loading Screen -->
+  <div id="loading-screen">
+    <div id="clouds-bg"></div>
+    <p id="loading-text">Loading our memories... 💕</p>
+    <div id="progress-bar-container">
+      <div id="progress-bar"></div>
+    </div>
+    <p id="percent-text">0%</p>
+  </div>
+
+  <!-- หน้า 2: Password Screen -->
+  <div id="password-screen" class="hidden">
+    <p id="password-hint">🔒 Enter the secret code, my love~</p>
+    <input type="password" id="password-input" placeholder="type here...">
+    <button id="password-btn">Enter 💌</button>
+    <p id="error-msg" class="hidden">Wrong password, try again! 🥺</p>
+  </div>
+
+  <!-- หน้า 3: Card / Slideshow -->
+  <div id="card-screen" class="hidden">
+    <p id="slide-counter">1 / 16</p>
+    <div id="slide-container">
+      <img id="slide-image" src="" alt="memory">
+      <p id="slide-text">ข้อความโรแมนติก</p>
+    </div>
+    <div id="nav-buttons">
+      <button id="prev-btn">← Prev</button>
+      <button id="next-btn">Next →</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
