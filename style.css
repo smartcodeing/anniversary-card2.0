@@ -17,7 +17,7 @@ body {
 
 /* class ที่ใช้ซ่อน element — JavaScript จะเอาออกทีหลัง */
 .hidden {
-  display: none;
+  display: none !important;
 }
 
 /* ===== LOADING SCREEN ===== */
