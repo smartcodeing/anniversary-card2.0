@@ -77,9 +77,9 @@ passwordInput.addEventListener("keydown", function(event) {
 // ==============================
 var slides = [
   { image: "images/1.jpg",  text: "สุขสันต์วันครบรอบบน้าาเธอมีฉันฉันมีเธออ" },
-  { image: "images/2.jpg",  text: "อยากมองแบบนี้ทั้งวันเธอสวยมาก" },
-  { image: "images/3.jpg",  text: "เหมือนคนญี่ปุ่นเลยอะคนสวย" },
-  { image: "images/4.jpg",  text: "เสื้อดำการเกงดำผมดำหมวกสีเข้มคนขาววววนิ่มมากอิอิ" },
+  { image: "images/2.JPG",  text: "อยากมองแบบนี้ทั้งวันเธอสวยมาก" },
+  { image: "images/3.JPG",  text: "เหมือนคนญี่ปุ่นเลยอะคนสวย" },
+  { image: "images/4.JPG",  text: "เสื้อดำการเกงดำผมดำหมวกสีเข้มคนขาววววนิ่มมากอิอิ" },
   { image: "images/5.jpg",  text: "อะไรที่กินกับแฟนจะอร่อยขี้น300เท่า" },
   { image: "images/6.jpg",  text: "มีหมา2ตัวหมาดำกับหมาแก่แก้มนิ่ม" },
   { image: "images/7.jpg",  text: "ก้าวไปด้วยกันนนน" },
