@@ -76,22 +76,22 @@ passwordInput.addEventListener("keydown", function(event) {
 // STEP 5: ข้อมูล Slides
 // ==============================
 var slides = [
-  { image: "images/DSC07596.jpg",                        text: "สุขสันต์วันครบรอบบน้าาเธอมีฉันฉันมีเธออ" },
-  { image: "images/DSC07612.jpg",                        text: "อยากมองแบบนี้ทั้งวันเธอสวยมาก" },
-  { image: "images/DSC07625.jpg",                        text: "เหมือนคนญี่ปุ่นเลยอะคนสวย" },
-  { image: "images/DSC07931.jpg",                        text: "เสื้อดำการเกงดำผมดำหมวกสีเข้มคนขาววววนิ่มมากอิอิ" },
-  { image: "images/LINE_ALBUM_29_260507_1.jpg",          text: "อะไรที่กินกับแฟนจะอร่อยขี้น300เท่า" },
-  { image: "images/LINE_ALBUM_2025.12.31_260507_1.jpg",  text: "มีหมา2ตัวหมาดำกับหมาแก่แก้มนิ่ม" },
-  { image: "images/LINE_ALBUM_สงกรานต์69_260507_1.jpg",  text: "ก้าวไปด้วยกันนนน" },
-  { image: "images/LINE_ALBUM_สงกรานต์69_260507_2.jpg",  text: "โคตรcollllอะ" },
-  { image: "images/LINE_ALBUM_สงกรานต์69_260507_3.jpg",  text: "น่าร๊ากกกกเหมือนดาวเริ่ดๆๆ" },
-  { image: "images/LINE_ALBUM_สงกรานต์69_260507_4.jpg",  text: "อยากจุ๊บบแก้มม" },
-  { image: "images/LINE_ALBUM_สงกรานต์69_260507_5.jpg",  text: "โคตรสวยอะสุดๆเลยสายตาโคตรsexy" },
-  { image: "images/LINE_ALBUM_สงกรานต์69_260507_6.jpg",  text: "เวลานั้นคือเบลอมาก5555ไม่งั้ยจุ๊บละ" },
-  { image: "images/LINE_ALBUM_สงกรานต์69_260507_7.jpg",  text: "คนเยอะมากกเหมือนคนกรุงเทพมารวมกันหมด" },
-  { image: "images/LINE_ALBUM_สงกรานต์69_260507_8.jpg",  text: "หล่ออๆๆ" },
-  { image: "images/LINE_ALBUM_สงกรานต์69_260507_9.jpg",  text: "ไม่ได้จะต่อยนะ555555" },
-  { image: "images/LINE_ALBUM_สงกรานต์69_260507_10.jpg", text: "แฟนเลี้ยงน่ารักมากกอิ่มท้องอิ่มใจจจ" },
+  { image: "images/1.jpg",  text: "สุขสันต์วันครบรอบบน้าาเธอมีฉันฉันมีเธออ" },
+  { image: "images/2.jpg",  text: "อยากมองแบบนี้ทั้งวันเธอสวยมาก" },
+  { image: "images/3.jpg",  text: "เหมือนคนญี่ปุ่นเลยอะคนสวย" },
+  { image: "images/4.jpg",  text: "เสื้อดำการเกงดำผมดำหมวกสีเข้มคนขาววววนิ่มมากอิอิ" },
+  { image: "images/5.jpg",  text: "อะไรที่กินกับแฟนจะอร่อยขี้น300เท่า" },
+  { image: "images/6.jpg",  text: "มีหมา2ตัวหมาดำกับหมาแก่แก้มนิ่ม" },
+  { image: "images/7.jpg",  text: "ก้าวไปด้วยกันนนน" },
+  { image: "images/8.jpg",  text: "โคตรcollllอะ" },
+  { image: "images/9.jpg",  text: "น่าร๊ากกกกเหมือนดาวเริ่ดๆๆ" },
+  { image: "images/10.jpg", text: "อยากจุ๊บบแก้มม" },
+  { image: "images/11.jpg", text: "โคตรสวยอะสุดๆเลยสายตาโคตรsexy" },
+  { image: "images/12.jpg", text: "เวลานั้นคือเบลอมาก5555ไม่งั้ยจุ๊บละ" },
+  { image: "images/13.jpg", text: "คนเยอะมากกเหมือนคนกรุงเทพมารวมกันหมด" },
+  { image: "images/14.jpg", text: "หล่ออๆๆ" },
+  { image: "images/15.jpg", text: "ไม่ได้จะต่อยนะ555555" },
+  { image: "images/16.jpg", text: "แฟนเลี้ยงน่ารักมากกอิ่มท้องอิ่มใจจจ" },
 ];
 
 // ==============================
