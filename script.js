@@ -158,7 +158,7 @@ prevBtn.addEventListener("click", function() {
 // สร้าง audio element แล้วให้มันเล่นตอนเปิดการ์ด
 // loop = true คือเล่นวนซ้ำตลอด
 
-var music = new Audio("music.mp3");
+var music = new Audio("music");
 music.loop   = true;
 music.volume = 0.4;
 
